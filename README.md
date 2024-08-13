@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao seu perfil 🖤
 
-<!--
-**41EWL/41EWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME È **ENZO**
 
-Here are some ideas to get you started:
+estou estudadando na [alura](https://www.alura.co.br)
+estou me deenvolvendo na linguagem javascript
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo 📫
+
+00001115472288sp@aluno.educacao.sp.gov.br
+
+
+
+
+![](https://media1.tenor.com/m/dur8_lWhH2cAAAAC/crazy-cat-dancing-crazy-cat.gif)
